@@ -7,7 +7,7 @@ Atribute page is made using HTML,CSS technologies on APJ Abdul Kalam which menti
 
 In this web page, I demonstrated how to create a clickable heading that navigates to a detailed information page. This is achieved by using a hyperlink within a heading tag, styled with CSS to ensure a clean and user-friendly interface.
 
-The HTML structure utilizes an anchor (<a>) tag wrapped inside an <h1> heading tag. The href attribute of the anchor tag points to the target page, detailed-information.html.
+The HTML structure utilizes an anchor (<a>) tag wrapped inside an  heading tag. The href attribute of the anchor tag points to the target page, detailed-information.html.
 
 The accompanying CSS provides a minimalistic style, with the .heading-link class ensuring the link appears as regular text and the :hover pseudo-class adding an underline on hover to indicate interactivity.
 
